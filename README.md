@@ -1,11 +1,7 @@
 Projet n°2 
 ----------
 
-Visualisez des données avec Excel
-
-==========================================================
-
-Objectifs pédagogiques
+<h2>Visualisez des données avec Excel</h2>
 
 ---------------------
 
