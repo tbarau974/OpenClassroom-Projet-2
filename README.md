@@ -9,4 +9,4 @@ Objectifs pédagogiques
 
 ---------------------
 
-Concevoir des graphiques adaptés en prenant en compte les bonnes pratiques d’accessibilité
+- Concevoir des graphiques adaptés en prenant en compte les bonnes pratiques d’accessibilité
